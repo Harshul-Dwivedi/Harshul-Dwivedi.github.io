@@ -318,19 +318,16 @@ body.dark-theme{
 .home__perfil{
   width: 100px;
   height: 200px;
-  object-fit: cover;
   background: linear-gradient(to bottom, #e6e9f0 0%, #eef1f5 100%);
   border-radius: 5.5rem;
   overflow: hidden;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end;
 }
 
 .home__perfil img{
-  width: 100%;
-  height: auto;
-  object-fit: cover;
+  width: 150px;
 }
 
 .home__shape-wawes,

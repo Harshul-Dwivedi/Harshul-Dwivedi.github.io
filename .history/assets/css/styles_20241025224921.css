@@ -324,13 +324,11 @@ body.dark-theme{
   overflow: hidden;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end;
 }
 
 .home__perfil img{
-  width: 100%;
-  height: auto;
-  object-fit: cover;
+  width: 150px;
 }
 
 .home__shape-wawes,
